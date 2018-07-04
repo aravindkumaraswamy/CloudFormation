@@ -1,5 +1,5 @@
 {
-    "AWSTemplateFormatVersion": "2010-09-09",
+    "AWSTemplateFormatVersion": "2018-06-09",
     "Conditions": {
         "CloudStorEfsSelected": {
             "Fn::Equals": [
